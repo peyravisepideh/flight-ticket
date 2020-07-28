@@ -1,42 +1,9 @@
 {
-  "_class": "text",
-  "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.9994974732398987,
-            "green": 1,
-            "red": 0.9996636509895325
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "SFPro-Regular",
-              "size": 18
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 4,
-        "location": 0
-      }
-    ],
-    "string": "From"
-  },
-  "automaticallyDrawOnUnderlyingPath": false,
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AF16725F-A6D2-44EF-8B3A-CE12C1DA532C",
-  "dontSynchroniseWithSymbol": false,
+  "do_objectID": "D24227EA-E755-4F7A-ABFA-A57C5FC8F4BE",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -46,27 +13,72 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 42,
-    "x": 66,
-    "y": 242
+    "height": 1,
+    "width": 260,
+    "x": 55,
+    "y": 70
   },
-  "glyphBounds": "{{1, 4}, {40, 14}}",
   "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
   "maintainScrollPosition": false,
-  "name": "From",
+  "name": "Rectangle",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "needsConvertionToNewRoundCorners": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -154,14 +166,14 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "EE985E69-6A7E-4A37-AD39-428EF29AF1C3",
+    "do_objectID": "125BCD1C-AE0F-4AA8-AA3B-11AFD3ACE691",
     "endMarkerType": 0,
     "fills": [
       {
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 1,
+          "alpha": 0.5017209353146853,
           "blue": 0.4823529411764706,
           "green": 0.1882352941176469,
           "red": 0.1490196078431372
@@ -216,32 +228,6 @@
     "shadows": [
     ],
     "startMarkerType": 0,
-    "textStyle": {
-      "_class": "textStyle",
-      "encodedAttributes": {
-        "MSAttributedStringColorAttribute": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.9994974732398987,
-          "green": 1,
-          "red": 0.9996636509895325
-        },
-        "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "SFPro-Regular",
-            "size": 18
-          }
-        },
-        "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
-      },
-      "verticalAlignment": 0
-    },
     "windingRule": 1
-  },
-  "textBehaviour": 0
+  }
 }

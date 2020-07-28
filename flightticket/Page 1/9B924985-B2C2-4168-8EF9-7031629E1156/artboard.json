@@ -53,14 +53,6 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "F6CA91B2-AF7F-4FB1-9CC5-67D7137AD321"
-    },
-    {
-      "class": "bitmap",
-      "id": "F30CAA5B-81A8-4ED8-BB59-7CC4CD70A3E5"
-    },
-    {
-      "class": "rectangle",
       "id": "F2FE33AD-D8D2-411E-A941-D6CC966B676C"
     },
     {
@@ -68,20 +60,20 @@
       "id": "147CBAA3-80AE-46D1-B392-4D03C7309A91"
     },
     {
+      "class": "rectangle",
+      "id": "F6CA91B2-AF7F-4FB1-9CC5-67D7137AD321"
+    },
+    {
+      "class": "bitmap",
+      "id": "F30CAA5B-81A8-4ED8-BB59-7CC4CD70A3E5"
+    },
+    {
       "class": "text",
       "id": "7ABBDCB3-2B44-4E5C-8D7C-6A8DF2F0E9FF"
     },
     {
-      "class": "rectangle",
-      "id": "6A44D577-4946-4DB5-823C-ADA44D81CC4A"
-    },
-    {
       "class": "group",
-      "id": "18490D3A-D5DE-4F3B-8AD5-F051F025038F"
-    },
-    {
-      "class": "rectangle",
-      "id": "D24227EA-E755-4F7A-ABFA-A57C5FC8F4BE"
+      "id": "0D9A8B9B-F135-4EAA-A6FF-651EFF820119"
     }
   ],
   "maintainScrollPosition": false,
@@ -149,7 +141,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      338
+      699
     ]
   }
 }

@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "78387027-94DE-4860-81E0-38FD6A768A0F",
+  "do_objectID": "0D9A8B9B-F135-4EAA-A6FF-651EFF820119",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 26,
-    "width": 26,
-    "x": 0,
-    "y": 71
+    "height": 140,
+    "width": 381,
+    "x": 17,
+    "y": 179
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -33,17 +33,45 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "2D7D135C-4281-4990-A165-91CD8E2A8DD6"
+      "class": "rectangle",
+      "id": "6A44D577-4946-4DB5-823C-ADA44D81CC4A"
+    },
+    {
+      "class": "text",
+      "id": "5578483D-D9D8-4C76-98C9-C75F3DBCEBEC"
+    },
+    {
+      "class": "text",
+      "id": "C68278DA-87AB-4E43-A6E7-AFACBB49D325"
+    },
+    {
+      "class": "text",
+      "id": "AF16725F-A6D2-44EF-8B3A-CE12C1DA532C"
+    },
+    {
+      "class": "text",
+      "id": "579A6012-F6A5-4F46-A5B6-FEA1711C2CAF"
+    },
+    {
+      "class": "group",
+      "id": "18490D3A-D5DE-4F3B-8AD5-F051F025038F"
+    },
+    {
+      "class": "rectangle",
+      "id": "D24227EA-E755-4F7A-ABFA-A57C5FC8F4BE"
+    },
+    {
+      "class": "group",
+      "id": "B7EFF2A1-80C9-4AD7-9D7B-6BB3A66CDD96"
     }
   ],
   "maintainScrollPosition": false,
-  "name": "plane (1)",
-  "nameIsFixed": false,
+  "name": "search box",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 180,
-  "shouldBreakMaskChain": false,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -51,7 +79,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 0.5,
+      "radius": 10,
       "saturation": 1,
       "type": 0
     },
@@ -78,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "94A0CCF0-D86F-483F-89DD-C1520354486D",
+    "do_objectID": "102E85C9-C6AC-409D-824F-E1E30992E879",
     "endMarkerType": 0,
     "fills": [
     ],
